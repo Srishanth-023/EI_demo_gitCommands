@@ -117,3 +117,14 @@ git merge <branch-name>
 
 ---
 
+### 🔹 14. Merge a Branch into Current Branch
+```bash
+# Cloning a repo from open source
+git clone <repo-link>
+
+# It created a local copy of the global repo.
+# It must done only if the project is not available in local.
+```
+
+---
+
